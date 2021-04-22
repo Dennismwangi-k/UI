@@ -1,0 +1,102 @@
+.icons .bl img {
+  float: left;
+  margin-top: 0%;
+  width: 130px;
+  margin-left: 0%;
+}
+.sl {
+  margin-left: 50%;
+  margin-right: 0%;
+  padding-right: 0%;
+  padding-left: 0%;
+}
+
+.icons img {
+  width: 60px;
+  height: 60px;
+  padding: 2px;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 2%;
+}
+
+.sl img:hover {
+  background-color: blue;
+}
+body {
+  background-color: burlywood;
+}
+.icons {
+  background-color: rgb(181, 228, 133);
+  margin-top: 1px;
+  height: 90px;
+}
+
+.left {
+  background-color: darkgray;
+  width: 20em;
+  height: 30em;
+  color: white;
+  font-size: 15px;
+  font-style: italic;
+  text-align: center;
+  margin-top: 25px;
+}
+.left h2 {
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+input {
+  width: 250px;
+  margin-top: 0%;
+}
+
+.centermss {
+  border-style: solid;
+  background-color: mistyrose;
+  padding: 2px;
+  position: relative;
+  height: 25rem;
+  width: 25rem;
+  margin-right: 3%;
+  margin-left: 0%;
+  margin-top: 25px;
+}
+.centermss button {
+  background-color: navajowhite;
+  margin-top: 87%;
+  margin-left: 40px;
+  width: 10em;
+  padding: 0.7em;
+}
+.centermss button:hover {
+  background-color: peru;
+}
+
+.photo {
+  border-style: solid;
+  border-radius: 20px;
+  padding: 2px;
+  width: 15rem;
+  height: 15rem;
+  margin-left: 30px;
+  text-align: center;
+  font-size: 25px;
+}
+.rightmss {
+  border-style: solid;
+  background-color: ;
+  padding: 2px;
+  width: 20em;
+  background-color: darkgray;
+  text-align: center;
+  margin-top: 25px;
+}
+section {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

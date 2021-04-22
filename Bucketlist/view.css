@@ -1,0 +1,75 @@
+body {
+  background-color: burlywood;
+}
+.icons .bl img {
+  float: left;
+  margin-top: 0%;
+  width: 130px;
+  margin-left: 0%;
+}
+.sl {
+  margin-left: 50%;
+  margin-right: 0%;
+  padding-right: 0%;
+  padding-left: 0%;
+}
+
+.icons img {
+  width: 60px;
+  height: 60px;
+  padding: 2px;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 2%;
+}
+
+.sl img:hover {
+  background-color: blue;
+}
+.left {
+  background-color: darkgray;
+  width: 20em;
+  height: 65em;
+  color: white;
+}
+
+.left p {
+  font-size: 18px;
+  font-family: fantasy;
+}
+
+.right {
+  border-style: solid;
+  background-color: azure;
+  text-align: center;
+  padding: 2em;
+  margin-right: 10%;
+  margin-top: 24px;
+  float: right;
+}
+
+button {
+  width: 23em;
+  background-color: burlywood;
+  padding: 0.7;
+}
+button:hover {
+  background-color: rgb(121, 121, 214);
+}
+input {
+  width: 40em;
+  background-color: rgb(241, 238, 232);
+}
+input:hover {
+  background-color: darkseagreen;
+}
+.dreams {
+  background-color: grey;
+  border-style: solid;
+  text-align: center;
+  width: 67%;
+  padding: 2em;
+  margin-right: 5px;
+  margin-top: 24px;
+  float: right;
+}

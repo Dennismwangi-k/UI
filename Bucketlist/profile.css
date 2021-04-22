@@ -1,0 +1,92 @@
+.icons .bl img {
+  float: left;
+  margin-top: 0%;
+  width: 130px;
+  margin-left: 0%;
+}
+.sl {
+  margin-left: 50%;
+  margin-right: 0%;
+  padding-right: 0%;
+  padding-left: 0%;
+}
+
+.icons img {
+  width: 60px;
+  height: 60px;
+  padding: 2px;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 2%;
+}
+
+.sl img:hover {
+  background-color: blue;
+}
+
+body {
+  background-color: burlywood;
+}
+.icons {
+  background-color: rgb(181, 228, 133);
+  margin-top: 1px;
+  height: 90px;
+}
+
+.left {
+  background-color: darkgray;
+  width: 20em;
+  height: 30em;
+  color: white;
+  font-size: 15px;
+  font-style: italic;
+}
+.left h2 {
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+input {
+  width: 250px;
+  margin-top: 0%;
+}
+
+.data {
+  border-style: solid;
+  width: 80%;
+  border-radius: 20px;
+  padding: 10px;
+  margin-left: 90px;
+  text-align: center;
+}
+.photo1 {
+  border-style: solid;
+  width: 50px;
+  border-radius: 20px;
+  padding: 80px;
+  padding-right: 120px;
+  text-align: center;
+  margin-left: 35%;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.photo1 h1 {
+  margin-right: 200px;
+}
+input {
+  width: 500px;
+  height: 50px;
+}
+input:hover {
+  background-color: lightslategray;
+}
+.profile {
+  border-style: solid;
+  background-color: rgb(224, 220, 159);
+  padding: 2opx;
+  height: 50%;
+  width: 90%;
+  margin-top: 20px;
+  margin-left: 50px;
+  border-radius: 40px;
+}

@@ -1,0 +1,106 @@
+@media screen and (max-width: 770px) {
+  .title-text h1 {
+    font-size: 35px;
+  }
+}
+
+body {
+  background-color: rgb(241, 213, 176);
+}
+
+.detail {
+  border-color: rgb(165, 123, 123);
+  border-width: 2px;
+  width: 30%;
+  height: 50%;
+  font-size: 20px;
+  text-decoration: none;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 0%;
+  float: right;
+}
+
+button {
+  color: aliceblue;
+  background-color: rgb(120, 118, 236);
+  width: 100%;
+  height: 3rem;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: rgb(238, 169, 85);
+}
+h1 {
+  color: rgb(41, 41, 41);
+  font-size: 20px;
+  margin-top: 5em;
+  margin-bottom: 0%;
+  float: left;
+}
+.next2 {
+  font-size: 15px;
+  color: rgb(41, 41, 41);
+  margin-top: 5px;
+  text-decoration: none;
+}
+.next2 a {
+  text-decoration: none;
+  color: blueviolet;
+}
+label {
+  color: rgb(41, 41, 41);
+  font-size: 16px;
+}
+
+.dat {
+  margin-top: 10%;
+  margin-right: 30px;
+  float: left;
+}
+
+.detail img {
+  width: 150px;
+}
+
+.tax {
+  color: white;
+  margin-top: 60%;
+  margin-left: 5%;
+  font-size: 20px;
+}
+
+.container2 {
+  background: url(photo-1557066362-6078e3f81812.jpg), left, no-repeat;
+  background-size: cover;
+  width: 55em;
+  height: 38em;
+  float: left;
+  margin: auto;
+}
+.detail img {
+  height: 5em;
+  float: right;
+}
+
+select {
+  width: 30em;
+  margin-top: 1em;
+}
+input {
+  width: 24em;
+  text-decoration: none;
+  margin-top: 0%;
+  height: 2em;
+}
+
+input:hover {
+  background-color: rgb(144, 144, 228);
+}
+label {
+  float: left;
+}
+
+select:hover {
+  background-color: rgb(144, 144, 228);
+}

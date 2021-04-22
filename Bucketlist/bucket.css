@@ -1,0 +1,65 @@
+body {
+  background-color: burlywood;
+}
+
+.icons .bl img {
+  float: left;
+  margin-top: 0%;
+  width: 130px;
+  margin-left: 0%;
+}
+.sl {
+  margin-left: 50%;
+  margin-right: 0%;
+  padding-right: 0%;
+  padding-left: 0%;
+}
+
+.icons img {
+  width: 60px;
+  height: 60px;
+  padding: 2px;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 2%;
+}
+
+.sl img:hover {
+  background-color: blue;
+}
+
+.icons {
+  background-color: rgb(181, 228, 133);
+}
+.left {
+  background-color: darkgray;
+  width: 20em;
+  height: 65em;
+  color: white;
+}
+
+.left p {
+  font-size: 18px;
+  font-family: fantasy;
+}
+
+.right a {
+  float: right;
+  border-radius: 2px;
+  padding: 5em;
+  margin-right: 15%;
+  margin-top: 10%;
+  background-color: ivory;
+  background-image: image(view.jpg);
+}
+.right a:hover {
+  background-color: khaki;
+  text-decoration: none;
+}
+
+.right h2 {
+  float: right;
+  margin-right: 10%;
+  margin-top: 5%;
+  background-image: image(view.jpg);
+}
